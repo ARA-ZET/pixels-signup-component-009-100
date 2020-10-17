@@ -35,15 +35,16 @@ h1 {
 }
 
 .facebook {
+  display: flex;
+  justify-content: start;
+  align-items: center;
   width: 100%;
-  padding: .1rem;
+  padding: .4rem;
   color: white;
   background-color: rgb(31, 74, 153);
   border: none;
   border-radius: .2rem;
-  justify-content: center;
-
-  
+ 
 }
 
 .fab {
